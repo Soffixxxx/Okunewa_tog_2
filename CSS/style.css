@@ -1,0 +1,1151 @@
+.header111{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #ffffff;
+    display: flex;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.header 
+{
+    width: 1450px;
+    height: 112px;
+    background-color: #ffffff;
+
+}
+
+.button-container 
+{
+    position: absolute;
+    top: 16px;
+
+}
+  
+.button-camp 
+{
+    display: inline-block;
+    border-radius: 5px;
+    padding: 4px 8px;
+    width: 64px;
+    height: 32px;
+    background: rgba(94, 158, 2, 0.1);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 171%;
+    color: #5e9e02;
+    margin-right: 8px;
+    border: none; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-tours 
+{
+    display: inline-block;
+    border-radius: 5px;
+    padding: 4px 8px;
+    width: 48px;
+    height: 32px;
+    background: rgba(2, 64, 158, 0.1);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 171%;
+    color: #02409E;
+    margin-right: 8px;
+    border: none; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-eurocamping
+{
+    display: inline-block;
+    border-radius: 5px;
+    padding: 4px 8px;
+    width: 101px;
+    height: 32px;
+    background: #BF5002;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 171%;
+    color: #ffffff;
+    margin-right: 8px;
+    border: none; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-holidays
+{
+    display: inline-block;
+    border-radius: 5px;
+    padding: 4px 8px;
+    width: 83px;
+    height: 32px;
+    background: rgba(157, 37, 164, 0.1);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 171%;
+    color: #9D25A4;
+    margin-right: 8px;
+    border: none; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-online
+{
+    display: inline-block;
+    border-radius: 5px;
+    padding: 4px 8px;
+    width: 68px;
+    height: 32px;
+    background: rgba(248, 164, 5, 0.1);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 171%;
+    color: #F8A405;
+    margin-right: 8px;
+    border: none; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.information-button-container
+{
+margin-left: 500px;
+}
+
+.information-button 
+{
+    padding: 8px;
+    height: 48px;
+    margin-bottom: 8px; 
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    border: none; 
+    background-color: white;
+    color: #666F78;
+    font-family: 'Roboto', sans-serif;
+}
+
+.dot-container 
+{
+    margin-left: 758px;
+    margin-top: -55px;
+}
+
+.dot-container p
+{
+    font-weight: 500;
+    color: #666F78;
+    font-size: 14px;
+}
+
+.my-cabinet-button-container 
+{
+margin-left: 770px;
+margin-top: -46px;
+}
+
+.phone-number
+{
+    margin-left: 1090px;
+    margin-top: -60px;
+}
+
+.phone-number p
+{
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.recall
+{
+    margin-left: 1256px;
+    margin-top: -38px;
+}
+
+.recall p
+{
+    font-weight: 500;
+    color: #666F78;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.viber
+{
+    margin-left: 1395px;
+    margin-top: -34px;
+}
+
+.telegramm
+{
+    margin-left: 1425px;
+    margin-top: -22px;
+}
+
+.image-container
+{
+    position: absolute;
+    top: 57px;
+}
+
+.text-button-container 
+{
+  margin-left: 240px;
+  margin-top: 20px;
+}
+
+.text-button 
+{
+    padding: 8px;
+    height: 48px;
+    margin-bottom: 8px; 
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    border: none; 
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+  
+.text-button:nth-child(1) 
+{
+    width: 72px;
+}
+  
+.text-button:nth-child(2) 
+{
+    width: 124px;
+}
+  
+.text-button:nth-child(3) 
+{
+    width: 116px;
+}
+  
+.text-button:nth-child(4) 
+{
+    width: 147px;
+}
+  
+.text-button:nth-child(5)
+{
+    width: 114px;
+}
+  
+.text-button:nth-child(6) 
+{
+    width: 132px;
+}
+  
+.text-button:nth-child(7) 
+{
+    width: 69px;
+}
+
+
+
+.cart-button
+{
+    padding-top: 10px;
+    font-size: 16px;
+    position: absolute;
+    text-align: center;
+    border: none; 
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.cart
+{
+  margin-left: 1140px;
+  margin-top: -55px;
+}
+
+.ticket-button
+{
+    padding-top: 3px;
+    font-size: 16px;
+    position: absolute;
+    text-align: center;
+    border: none; 
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ticket
+{
+    margin-left: 1290px;
+    margin-top: -35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menuha
+{
+    display: flex;
+    flex-direction: baseline;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    color: #333333;
+    margin-top: -30px;
+}
+
+.vse-vmeste{
+    
+    background-color: #FBF3ED;
+    border-radius: 10px;
+    color: #BF5002;
+padding-left: 15px;
+
+padding-right: 15px;
+}
+
+.famili{
+    padding-left: 21px;
+}
+
+.kids{
+    padding-left: 36px;
+}
+.student{
+    padding-left: 36px;
+}
+.Vzroslym{
+    padding-left: 36px;
+}
+
+.vse-kart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.ryadkart1{
+     display: flex;
+    flex-direction: row;
+
+}
+
+.ryadkart2{
+    display: flex;
+    flex-direction: row;
+}
+.big-zagolovok{
+    font-size: 64px;
+    align-items: center;
+    font-weight: bold;
+    margin-top: -70px;
+    
+}
+.glavni{
+font-size: 14px;
+
+color: #666F78;
+padding-right: 8px;
+}
+.otdih{
+    font-size: 14px;
+    padding-right: 8px;
+    color: #000000;
+    }
+.zagolovkii{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+
+
+}
+.mini-zagolovok{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+   
+
+}
+.tire{
+    font-size: 14px;
+    padding-right: 8px;
+    color: #666F78;
+}
+.zagtextik{
+    font-size: 24px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    line-height: 40px;
+}
+.podzag{
+    font-size: 18px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+flex-direction: column;
+    justify-content: center;
+    line-height: 32px;
+    
+}
+.ss{
+    padding: 0;
+    margin: 0 auto;
+}
+.palkastextom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+   
+   margin-left: -120px;
+    margin-top:-16px;
+    line-height: 32px;
+}
+.palka{
+    width:24px ;
+    height: 2px;
+    padding-right: 17px;
+    margin-top: -29px;
+    
+}
+.palka3{
+    width:24px ;
+    height: 3px;
+    padding-right: 17px;
+    margin-top: -28px;
+    
+}
+.palka2{
+    width:24px ;
+    height: 2px;
+    padding-right: 17px;
+   
+    
+}
+.textbespalki{
+    font-size: 18px;
+    padding-bottom:0 ;
+}
+.mnogo-punktov{
+ 
+    margin-top: -26px;
+}
+.big-zagolovok2{
+    font-size: 48px;
+    align-items: center;
+    font-weight: bold;
+    margin-top: 0px;
+    
+}
+.mnogo-punktov{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 16px;
+   
+}
+.container_s_nadpisami{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+ 
+}
+.marsituty_vse{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.marsituty_img{
+   margin-right:96px;
+}
+.marsrutka-texty{
+    padding-right: 85px;
+}
+.mar-zag{
+    font-size: 24px;
+   
+}
+.mar-zag2{
+    font-size: 24px;
+   
+}
+.mar-zag3{
+    font-size: 24px;
+   
+}
+.mar-podzag{
+    font-size: 24px;
+    line-height: 32px;
+}
+.mar-podzag1{
+    font-size: 24px;
+    line-height: 32px;
+}
+.mar-text-2{
+    margin-top: 193px;
+}
+.mar-text-3{
+    margin-top: 193px;
+}
+.btn_kk{
+    border: 1px solid #BF5002;
+    width: 201px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #BF5002;
+    font-size: 16px;
+}
+.baton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 69px;
+    margin-bottom: 90px;
+}
+
+.big-zagolovok3{
+    font-size: 48px;
+    align-items: center;
+    font-weight: bold;
+    margin-top: 0px;
+    
+}
+.krd{
+    width: 448px;
+    height: 336px;
+    background-image: url(../img/Group\ 741.png);
+    display: flex;
+    align-items: flex-end;
+  
+   
+}
+.krd2{
+    width: 448px;
+    height: 336px;
+    background-image: url(../img/Group\ 742.png);
+    display: flex;
+    align-items: flex-end;
+}
+.krd3{
+    width: 448px;
+    height: 336px;
+    background-image: url(../img/Group\ 743.png);
+    display: flex;
+    align-items: flex-end;
+    padding: 0 auto;
+}
+.k3katy{
+    max-width: 1392px;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+flex-direction: row;
+justify-content: space-around;
+margin: 0 auto;
+margin-top: 53px;
+}
+.vsooo{
+   max-width: 1392px;
+   margin: 0 auto;
+   padding: auto;
+}
+.kardtxt{
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 26px;
+}
+.zabronit{
+    width: 167px;
+    height: 48px;
+    background-color: #ffffff;
+    font-size: 16px;
+    color: #BF5002;
+    border: none;
+    border-radius: 10px;
+    margin-left: 160px;
+    font-weight: bolder;
+}
+.batonitextvkard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 26px;
+    margin-top: auto;
+}
+.nnll{
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 36px;
+    color: #ffffff;
+    margin-left: 26px;
+    margin-bottom: 190px;
+}
+
+.zagolovkii{
+    margin-top: 65px;
+}
+
+.vse-vmeste3{
+    display: flex;
+    flex-direction: row;
+    padding-top: 64px;
+    justify-content: center;
+    font-size: 16px;
+    color: #666F78;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FAFAFB;
+}
+
+.o-kamp{
+    padding-right: 70px;
+    margin-left: -80px;
+}
+
+.uslugii{
+    padding-right: 130px;
+}
+
+.Projivanie{
+    padding-right: 69px;
+}
+
+.Programs{
+    padding-right: 154px;
+}
+
+.Vidy-otdyha{
+    padding-right: 88px;
+}
+
+.zaglovk{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.zaglovk1{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 39px;
+    color: #000000;
+}
+
+.zaglovk2{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 39px;
+    color: #000000;
+}
+
+.zaglovk3{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 39px;
+    color: #000000;
+}
+
+.zaglovk4{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 39px;
+    color: #000000;
+}
+
+.footer111{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #FAFAFB;
+}
+.haskiek{
+    background-image: url(/img/fi_menu.png);
+    background-size: cover;
+    width: 35px;
+    height: 35px;
+    display: none;
+    background-repeat: no-repeat;
+      }
+.footer{
+    display: flex;
+    flex-direction:column;
+    height: 144px;
+    background-color: #FAFAFB;
+    border-top: 1px solid;
+    border-color: #E6E6E6;
+    width: 1400px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.zagl{
+    color: #BF5002;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.chetkart{
+    padding-top: 27px;
+    padding-left: 52px;
+}
+
+.f{
+    padding-right: 36px;
+    width: 16px;
+    height: 16px;
+}
+
+.v{
+    padding-right: 40px;
+}
+
+.i{
+    padding-right: 29px;
+    width: 16px;
+    height: 16px;
+}
+
+.perv-strok2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 33px;
+}
+
+.o-kampy{
+    display: flex;
+    flex-direction: row;
+    margin-top: -14px;
+    font-size: 14px;
+    color: #666F78;
+    background-color: #FAFAFB;
+}
+
+.o-kampy img{
+   width: 89px;
+   height: 16px;
+}
+
+.ii{
+    padding-top: 15px;
+}
+
+.odd{
+    padding-right: 19px;
+}
+
+.dvv{
+    padding-right: 22px;
+}
+
+.trr{
+    padding-right: 24px;
+}
+
+.ptt{
+padding-right: 11px;
+padding-left: 375px;
+}
+
+.vse-vmeste33{
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    color: #000000;
+}
+.scroll-kart{
+    margin-top: 82px;
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    justify-content: center;
+
+}
+
+.tri-scroll-kart{
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+
+}
+.ice1{
+ width: 473px;
+
+}
+
+.ice2{
+  margin-left: -20px;
+  margin-right: -20px;
+  width: 810px;
+  height: 608px;
+    
+   }
+
+   .ice3{
+    width: 473px;
+    
+   }
+
+   .imgstrelka11{
+    position: relative;
+    right: 50px;
+    top: 264px;
+  }
+  
+  .imgstrelka22{
+      position: relative;
+      right: -50px;
+      top: 264px;
+    }
+
+    .tochki{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 48px;
+        background-color: #ffffff;
+    }
+
+.container_s_nadpisami{
+    margin-top: 80px;
+}
+.podzag{
+    margin-top: -15px;
+}
+.marsirutka{
+    margin-top: -70px;
+}
+.big-zagolovok3{
+    margin-top: -20px;
+}
+.k3katy{
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+.f1fotkaadaptiv{
+    display: none;
+}
+@media (max-width: 450px) {
+    .zagolovkii{
+        flex-direction: column;
+        align-items: center;
+    }
+    .menuha{
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin: 0 auto;
+    }
+    .big-zagolovok{
+     font-size: 60px;
+        text-align: center;
+    }
+    
+.famili{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+}
+.vse-vmeste{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+}
+.kids{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+}
+.student{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+}
+.Vzroslym{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+}
+.sc1{
+    display: none;
+}
+.sc3{
+    display: none;
+}
+.sc2{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ice2{
+    margin-top: -20px;
+    width: 380px;
+    height: 300px;
+}
+
+
+.OTZ{
+    margin-top: 5000px;
+}
+
+.ikonkii{
+    margin-top: 500px;
+}
+.otziv3{
+    display: none;
+}
+.otziv1{
+    display: none;
+}
+.otziv{
+
+    width: 448px;
+    height:354px ;
+    margin-right: 23px;
+}
+.imgstrelka1{
+    
+    display: none;
+}
+
+.imgstrelka{
+    
+    display: none;
+}
+
+.ikonkii{
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: -100px;
+}
+.due{
+    margin-left: 350px;
+    margin-top: -80px;
+}
+.tre{
+    margin-top: 40px;
+}
+.quattro{
+     margin-left: 350px;
+margin-top: -80px;
+}
+.sei{
+    margin-top: 40px;
+}
+.imgkoni{
+    margin-left: 350px;
+margin-top: -80px;
+}
+.vse-vmeste3{
+    display: none;
+}
+.chetkart{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+}
+.zagl{
+    display: none;
+}
+.o-kampy{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+}
+.trr{
+    margin-left: -100px;
+    margin-top: -8px;
+}
+.chh{
+    margin-top: -30px;
+    margin-left: 180px;
+}
+.ptt{
+    margin-left: -520px;
+    margin-top: 15px;
+}
+.ii{
+    margin-left: 70px;
+    margin-top: -45px;
+}
+.zagtextik{
+    text-align: left;
+}
+.mnogo-punktov{
+    margin-left: 130px;
+}
+.palka{
+    margin-top: -70px;
+}
+.palka2{
+    margin-top: -35px;
+}
+.palka3{
+    margin-top: -60px;
+}
+.mar-zag{
+    font-size: 30px;
+   
+    position: absolute;
+    left: 48px;
+    top: 2720px;
+    color: #BF5002;
+   
+}
+.mar-zag2{
+    font-size: 30px;
+    
+    position: absolute;
+    left: 159px;
+    top: 2720px;
+}
+.mar-zag3{
+    font-size: 30px;
+
+    position: absolute;
+    left: 270px;
+    top: 2720px;
+}
+.mar-podzag{
+    display: none;
+}
+.f1fotkaadaptiv{
+    display: flex;
+    position: absolute;
+    left: 13px;
+    top: 2830px;
+    width: 150px;
+}
+.marsituty_img{
+    display: none;
+}
+.mar-podzag1{
+    font-size: 18px;
+    width: 50%;
+    position: absolute;
+top: 2820px;
+left: 180px;
+}
+.krd{
+    width: 398px;
+    height: 286px;
+    background-image: url(../img/Group\ 741.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+    margin-top: 10px;
+  padding-right: 40px;
+   
+}
+.krd2{
+    width: 398px;
+    height: 286px;
+    background-image: url(../img/Group\ 742.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    margin-top: 10px;
+    padding-right: 0px;
+    padding-left: 12px;
+}
+.krd3{
+    width: 398px;
+    height: 286px;
+    background-image: url(../img/Group\ 743.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    padding: 0 auto;
+    margin-left: 25px;
+    margin-top: 10px;
+    padding-left: 1px;
+    padding-right: 43px;
+}
+.nnll{
+    padding-top: -50px;
+}
+.kardtxt{
+    margin-top: -60px;
+}
+.zabronit{
+    margin-top: -100px;
+   margin-left: 80px;
+   
+}
+
+
+.image-container{
+    position: absolute;
+    left: 75px;
+    top: 40px;
+}
+.haskiek{
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 10px;
+}
+.cart{
+    position: absolute;
+    top: 100px;
+    left: -830px;
+}
+
+.show{
+    display: block;
+}
+
+.ticket{
+    position: absolute;
+    top: 87px;
+    left: -930px;
+}
+.cart-button{
+    display: none;
+}
+.ticket-button{
+    display: none;
+}
+
+.text-button-container{
+    display: none;
+   
+}
+.pervaya-stroka{
+    display: none;
+}
+}
